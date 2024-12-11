@@ -15,25 +15,28 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
-The Interactive Rating Component is a web-based solution designed to collect user feedback through a dynamic and visually appealing rating system. This component allows users to select a rating and submit it, offering a seamless user experience. The project was developed as part of a challenge on Frontend Mentor, focusing on creating a 
+The Interactive Rating Component is a web-based solution designed to collect user feedback through a dynamic and visually appealing rating system. This component allows users to select a rating and submit it, offering a seamless user experience. The project was developed as part of a challenge on Frontend Mentor, focusing on creating a
 responsive and interactive interface.
 
 ### Preview
+
 ![Interactive Rating Component Preview](design\desktop-preview.jpg)  
 Check out the live demo: [Interactive Rating Component Live Demo](https://example.com)
 
 ### Resources
-- Link to the challenge on [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-sheun-mike)
-- [Live Demo](https://example.com)
+
+-   Link to the challenge on [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-sheun-mike)
+-   [Live Demo](https://example.com)
 
 ## Development Process
 
 The Interactive Rating Component was developed through a structured process:
-- **Planning and Design:** Defined requirements and created a wireframe.
-- **HTML Structure:** Built a semantic structure for the component.
-- **CSS Styling:** Applied responsive design techniques using Flexbox and CSS variables.
-- **JavaScript Integration:** Added functionality to handle user input and interactions.
-- **Testing and Refinement:** Ensured cross-device compatibility and improved usability based on feedback.
+
+-   **Planning and Design:** Defined requirements and created a wireframe.
+-   **HTML Structure:** Built a semantic structure for the component.
+-   **CSS Styling:** Applied responsive design techniques using Flexbox and CSS variables.
+-   **JavaScript Integration:** Added functionality to handle user input and interactions.
+-   **Testing and Refinement:** Ensured cross-device compatibility and improved usability based on feedback.
 
 ### Key Takeaways
 
