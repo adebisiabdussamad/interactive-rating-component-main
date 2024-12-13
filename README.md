@@ -20,13 +20,13 @@ responsive and interactive interface.
 
 ### Preview
 
-![Interactive Rating Component Preview](design\desktop-preview.jpg)  
-Check out the live demo: [Interactive Rating Component Live Demo](https://example.com)
+![Interactive Rating Component Preview](.\design\desktop-preview.jpg)  
+Check out the live demo: [Interactive Rating Component Live Demo](https://interactive-rating-component-bi.netlify.app/)
 
 ### Resources
 
--   Link to the challenge on [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-sheun-mike)
--   [Live Demo](https://example.com)
+-   Link to the challenge on [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-and-javascript-9u4rfNX6e1)
+-   [Live Demo](https://interactive-rating-component-bi.netlify.app/)
 
 ## Development Process
 
