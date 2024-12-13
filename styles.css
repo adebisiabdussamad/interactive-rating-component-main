@@ -4,7 +4,7 @@
 	--Orange: hsl(25, 97%, 53%);
 	--White: hsl(0, 0%, 100%);
 	--Light-grey: hsl(217, 12%, 63%);
-	--Dark-blue: hsl(213, 19%, 18%);
+	--Dark-blue: hsl(213, 20%, 18%);
 	--Very-dark-blue: hsl(216, 12%, 8%);
 }
 
@@ -25,7 +25,7 @@ body {
 main {
 	background-color: var(--Dark-blue);
 	width: 400px;
-	margin: 115px auto;
+	margin: 137px auto;
 	padding: 30px;
 	/* position: absolute;
 	top: 50%;
@@ -76,6 +76,13 @@ p {
 	box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 	color: var(--Light-grey);
 	cursor: pointer;
+	transition: ease-in-out 0.3s;
+	font-weight: bold;
+}
+
+.rating:hover {
+	color: var(--Dark-blue);
+	background-color: var(--Orange);
 }
 
 .submit {
@@ -83,17 +90,24 @@ p {
 	text-align: center;
 	color: var(--Very-dark-blue);
 	background-color: var(--Orange);
-	border: 1px solid black;
+	border: 0px solid black;
 	border-radius: 20px;
 	padding: 10px 50px;
 	font-weight: bold;
 	cursor: pointer;
+	letter-spacing: 2px;
+	transition: ease-in-out 0.3s;
 }
 
-/* .hidden {
+.submit:hover {
+	background-color: var(--White);
+}
+
+.hidden {
 	display: none;
-} */
-.show{
+}
+
+.show {
 	display: none;
 }
 
@@ -128,9 +142,9 @@ h2 {
 	text-align: center;
 }
 
-@media(max-width:400px) {
+@media(max-width:417px) {
 	main {
 		width: 90%;
-		margin: 40px auto;
+		margin: 120px auto;
 	}
 }
